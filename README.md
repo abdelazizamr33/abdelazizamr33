@@ -1,7 +1,4 @@
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" align="center" style="width: 100%" />
-</div>  
-  
+
 
 ### <div align="center">I'm Abdelaziz Amr, a Computer Science Student @NewCairoAcademy 👨‍💻Passionate in Backend development and Ai 🚀</div>  
   
@@ -92,5 +89,3 @@
   
 
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
