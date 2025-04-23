@@ -1,9 +1,9 @@
 
 
-### <div align="center">I'm Abdelaziz Amr, a Computer Science Student @NewCairoAcademy 👨‍💻Passionate in Backend development and Ai 🚀</div>  
+### <div align="center">I'm Abdelaziz Amr, a Computer Science Student @NewCairoAcademy </div>  
   
 
-- 🌱 I’m currently learning C#.NET and GoLang  
+- 🌱 I’m currently learning C# Asp.Net  
   
 
 <br/>  
